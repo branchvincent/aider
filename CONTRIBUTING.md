@@ -162,7 +162,7 @@ The built documentation will be available in the `aider/website/_site` directory
 
 ### Python Compatibility
 
-Aider supports Python versions 3.9, 3.10, 3.11, and 3.12. When contributing code, ensure compatibility with these supported Python versions.
+Aider supports Python versions 3.9, 3.10, 3.11, 3.12, and 3.13. When contributing code, ensure compatibility with these supported Python versions.
 
 ### Code Style
 
